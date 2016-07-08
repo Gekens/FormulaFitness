@@ -14,7 +14,7 @@
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
         android:padding="20dp"
-        android:background="#ffae51">
+        android:background="#e63f3c">
 
         <TextView
             android:layout_width="wrap_content"
@@ -41,7 +41,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/toolbar"
         android:id="@+id/tool"
-        android:background="#f79e38">
+        android:background="#e93532">
 
         <ImageButton
             android:layout_width="wrap_content"
@@ -87,7 +87,9 @@
         android:id="@+id/container"
         android:layout_below="@+id/tool"
         android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"></FrameLayout>
+        android:layout_alignParentStart="true">
+
+    </FrameLayout>
 
 
 </RelativeLayout>
