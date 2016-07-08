@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FormulaFitness</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Nome</string>
+    <string name="hint_surname">Cognome</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTAZIONE</string>
+    <string name="btn_ripristina">Ripristina Password</string>
+    <string name="btn_link_to_register">Password dimenticata?</string>
+    <string name="btn_link_to_login">Già registrato! Accedi.</string>
+    <string name="welcome">Benvenuto</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="name">Nome</string>
+    <string name="surname">Cognome</string>
+    <string name="hint_password2">Ripeti Password</string>
+
+</resources>
